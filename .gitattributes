@@ -1,0 +1,7 @@
+Cargo.lock linguist-generated
+src/*.ts linguist-detectable
+*.yaml linguist-detectable=false
+*.htm linguist-vendored
+dist/* linguist-vendored
+src/**/*.ts linguist-detectable
+# eof af8fd2e4
